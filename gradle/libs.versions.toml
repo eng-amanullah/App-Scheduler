@@ -22,9 +22,6 @@ activityCompose = "1.9.3"
 composeBom = "2024.11.00"
 material = "1.7.5"
 media = "1.7.0"
-mockitoCore = "4.4.0"
-mockitoInline = "3.11.2"
-mockitoKotlin = "5.4.0"
 navigationCompose = "2.8.4"
 navigationRuntimeKtx = "2.8.4"
 pagingRuntime = "3.3.4"
@@ -81,9 +78,6 @@ androidx-swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "s
 junit-jupiter-api = { module = "org.junit.jupiter:junit-jupiter-api", version.ref = "junitJupiterApi" }
 junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "junitJupiterEngine" }
 kotlinx-coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "kotlinxCoroutinesTest" }
-mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockitoCore" }
-mockito-inline = { module = "org.mockito:mockito-inline", version.ref = "mockitoInline" }
-mockito-kotlin = { module = "org.mockito:mockito-kotlin", version.ref = "mockitoKotlin" }
 okhttpprofiler = { group = "com.localebro", name = "okhttpprofiler", version.ref = "okhttpprofiler" }
 retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "retrofit" }

@@ -56,14 +56,11 @@ dependencies {
     testImplementation(libs.junit)
     testImplementation(libs.junit.jupiter.api)
     testImplementation(libs.junit.jupiter.engine)
-    testImplementation(libs.mockito.core)
-    testImplementation(libs.mockito.inline)
     testImplementation(libs.kotlinx.coroutines.test)
     //noinspection GradleDependency
     testImplementation(libs.androidx.core.testing)
     //noinspection GradleDependency
     testImplementation(libs.hilt.android.testing)
-    testImplementation(libs.mockito.kotlin)
     //noinspection GradleDependency
     testImplementation(libs.androidx.lifecycle.viewmodel.ktx)
 
